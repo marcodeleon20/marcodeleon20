@@ -42,7 +42,7 @@ As a Systems Engineering student and an aspiring software developer, I have the 
 If you're interested in collaborating on exciting projects or just want to discuss software development, feel free to reach out to me! You can find me at the following links:
 
 
-- [Email](mailto:marcodeleonh@gmail.com)
+- marcodeleonh@gmail.com
 
 ---
 
